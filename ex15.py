@@ -2,7 +2,7 @@ from sys import argv
 # argument variables for argv
 script, filename = argv
 
-#varible name for the txt file to be opened
+#variable name for the txt file to be opened
 txt = open(filename)
 #print out file and use the read funtion to read the file
 print(f"Here's your file {filename}:")

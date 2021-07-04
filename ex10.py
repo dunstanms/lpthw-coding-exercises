@@ -4,9 +4,9 @@ backslash_cat = "{}"
 
 fat_cat = '''
 I'll do a list:
-\t* Cat food
-\t* Fishies
-\t* Catnip\n\t* Grass
+\v* Cat food
+\v* Fishies
+\v* Catnip\n\v* Grass
 '''
 
 print(tabby_cat.format("\tI'm tabbed in"))
